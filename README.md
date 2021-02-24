@@ -5,6 +5,7 @@
 
 ## Olá pessoal 👋
 Gosto de ser desafiado e mostrar meu valor e ver até onde posso ir
+<br/>
 Sou um FrontEnd Developer :computer:
 
  :rocket:  &nbsp; Estou estagiando no **Sicredi Campo Grande MS** desde Setembro de 2019
