@@ -8,7 +8,7 @@ Gosto de ser desafiado e mostrar meu valor e ver até onde posso ir
 <br/>
 Sou um FrontEnd Developer :computer:
 
- :four_leaf_clover:  &nbsp; Estou estagiando no **Sicredi Campo Grande MS** desde Setembro de 2019
+ :four_leaf_clover:  &nbsp; Estou trabalhando no **Sicredi Campo Grande MS** desde Setembro de 2019, hj atuo como Assistente de Processos.
  <br/> :green_heart: &nbsp; Buscando colaborar e desenvolver projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com Firebase, Firestorage, Analytics  
  <br/>  :green_book: &nbsp; Minha stack: ReactJS, Node.js, TailwindCSS, Framer Motion, Materia UI,  React Native & Typescript
