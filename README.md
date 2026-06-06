@@ -15,7 +15,7 @@
 
 # VICTOR VICENTE
 
-**`Engenheiro de Software`** · **`Backend`** · **`Automação & Integração`**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+%26+Fullstack+Engineer;Java+21+%7C+Spring+Boot+%7C+Python%2FDjango;Next.js+%7C+TypeScript+%7C+REST+APIs;Automacao+de+processos+e+integracao;Construindo+sistemas+que+escalam&font=Fira+Code&center=true&width=480&height=45&color=4ade80&background=0d1f1400&vCenter=true&pause=1000&size=18)](https://github.com/victoravicente)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--vicente-1a3a2a?style=for-the-badge&logo=linkedin&logoColor=4ade80)](https://www.linkedin.com/in/victor-0-vicente/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-victoravicente.github.io-1a3a2a?style=for-the-badge&logo=github&logoColor=4ade80)](https://victoravicente.github.io/portfolio-victor/)
