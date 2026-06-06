@@ -48,7 +48,7 @@
 
 ---
 
-## ⚡ Stack Principal
+##  Stack Principal
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🗂 Projetos em Destaque
+##  Projetos em Destaque
 
 <div align="center">
 
@@ -120,7 +120,7 @@ $ ls -la projetos/
 
 ---
 
-## 📈 Trajetória
+##  Trajetória
 
 <div align="center">
 
@@ -153,7 +153,7 @@ $ ls -la projetos/
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 - **Bacharelado em Engenharia de Software** — UFMS *(em conclusão)*
 - **Técnico em Informática** — IFMS
